@@ -1,6 +1,7 @@
 ### Natural Nerd code repository
 
 #### Project
+* [Wireless Sound Reactive Lamps](https://github.com/hansjny/Natural-Nerd/tree/master/SoundReactive2)
 * [Wifi Quality Sensor](https://github.com/hansjny/Natural-Nerd/blob/master/arduino/wifiquality.ino)
 * [Wifi Controllable Relay](https://github.com/hansjny/Natural-Nerd/blob/master/arduino/wifirelay.cc)
 * [Social Media Display](https://github.com/hansjny/Natural-Nerd/tree/master/social-display/html)
